@@ -1,3 +1,34 @@
-body{
-    color: #577D86;
-} 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabecalho {
+    background-color: #0E2954;
+    color: #fff;
+        display: flex;
+        justify-content: left;
+        padding: 15px 0;
+        align-items: end;
+}
+
+.cabecalho-imagem {
+    width: 17%;
+    height: 17%;
+    float: left;
+    
+}
+.cabecalho-lista{
+    list-style: none;
+
+}
+ .cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium';
+    
+       
+
+ }
