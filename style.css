@@ -29,3 +29,24 @@
         
  }
 
+.edutech-imagem{
+    width: 25%;
+}
+
+.site-edutech{
+    background-image: linear-gradient(#0E2954,#569DAA);
+    color: white;
+    font-family:'Franklin Gothic Medium';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.edutech-div-conteudo{
+    width: 35%;
+}
+
+.edutech-titulo{
+    padding: 24px 0;
+}
