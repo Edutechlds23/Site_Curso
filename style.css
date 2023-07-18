@@ -1,52 +1,113 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-
 .cabecalho {
     background-color: #0E2954;
     color: #fff;
-        display: flex;
-        justify-content: space-around;
-        padding: 15px 0;
-        align-items: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem {
     width: 17%;
     height: 17%;
-        
 }
-.cabecalho-lista{
-    list-style: none;
 
-}
- .cabecalho-lista-item {
+.cabecalho-lista-item {
+    display: inline-block;
     margin: 0 16px;
     font-size: 20px;
-    font-family:'Franklin Gothic Medium';
-        
- }
-
-.edutech-imagem{
-    width: 25%;
+    font-family: 'Franklin Gothic Medium';
 }
 
-.site-edutech{
-    background-image: linear-gradient(#0E2954,#569DAA);
+
+.edutech-imagem {
+    width: 25%;
+}
+.edutech-imagem-dois {
+    width: 50%;
+}
+
+.site-edutech {
+    background-image: linear-gradient(#0E2954, #569DAA);
     color: white;
-    font-family:'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium';
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 0;
+    padding: 75px 0;
 }
 
-.edutech-div-conteudo{
+.edutech-div-conteudo {
     width: 35%;
 }
 
-.edutech-titulo{
-    padding: 24px 0;
+.edutech-titulo {
+    padding: 0 24px;
 }
+
+.embaixadora-imagem{
+    width: 120px;
+}
+.embaixadora-icone{
+    width: 24px;
+}
+.embaixadora-div{
+    text-align: center;
+}
+.Embaixadora-NRE{
+    text-align: center;
+    padding: 50px 0;
+    font-family: 'Franklin Gothic Medium';
+    color: #123670;
+}
+.embaixadora-nome{
+    font-family: 'Franklin Gothic Medium'; 
+    color: #123670;
+}
+.embaixadora-nome-dois{
+    font-family: 'Franklin Gothic Medium'; 
+    color: #123670;
+}
+.rodape{
+    background-color: #84A7A1;
+    text-align: right;
+}
+.rodape-imagem{
+    width: 120px;
+    padding: 12px 0;
+  }
+  .titulo-rodape{
+    background-color: #84A7A1;
+    color: #fff;
+    display: flex;
+    font-family: 'Franklin Gothic Medium';
+    justify-content: space-around;
+    text-align: left;
+    padding: 24px 0; 
+    font-size: 20px;   
+  }
+  .nucleo-texto-um{
+    color: #fff;
+    display: flex;
+    font-family: 'Franklin Gothic Medium';
+    justify-content: space-around;
+    text-align: left;
+    font-size: 15px;   
+  }
+  .nucleo-texto-dois{
+    color: #fff;
+    display: flex;
+    font-family: 'Franklin Gothic Medium';
+    justify-content: space-around;
+    text-align: left;
+    align: middle;
+    font-size: 15px; 
+  }
+  .rodape-div{
+    text-align: center;
+  }
