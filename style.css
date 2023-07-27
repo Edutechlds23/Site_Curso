@@ -21,7 +21,7 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium';
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -35,21 +35,29 @@
 .site-edutech {
     background-image: linear-gradient(#0E2954, #569DAA);
     color: white;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 75px 0;
-}
+    }
 
 .edutech-div-conteudo {
     width: 35%;
+    }
+
+.edutech-titulo{
+    padding: 50px;
+    margin: 0px
 }
 
-.edutech-titulo {
-    padding: 0 24px;
+.edutech-texto-um{
+    padding: 25px;
+    margin: 0px
 }
-
+.edutech-texto-2{
+    padding: 25px;
+    margin: 0px
+}
 .embaixadora-imagem{
     width: 120px;
 }
@@ -62,15 +70,15 @@
 .Embaixadora-NRE{
     text-align: center;
     padding: 50px 0;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #123670;
 }
 .embaixadora-nome{
-    font-family: 'Franklin Gothic Medium'; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     color: #123670;
 }
 .embaixadora-nome-dois{
-    font-family: 'Franklin Gothic Medium'; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     color: #123670;
 }
 .rodape{
@@ -85,7 +93,7 @@
     background-color: #84A7A1;
     color: #fff;
     display: flex;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
     padding: 24px 0; 
@@ -94,7 +102,7 @@
   .nucleo-texto-um{
     color: #fff;
     display: flex;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
     font-size: 15px;   
@@ -102,7 +110,7 @@
   .nucleo-texto-dois{
     color: #fff;
     display: flex;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
     align: middle;
