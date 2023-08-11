@@ -21,13 +21,14 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 20px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
 .edutech-imagem {
     width: 25%;
 }
+
 .edutech-imagem-dois {
     width: 50%;
 }
@@ -39,83 +40,127 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    }
+}
 
 .edutech-div-conteudo {
     width: 35%;
-    }
+}
 
-.edutech-titulo{
+.edutech-titulo {
     padding: 50px;
     margin: 0px
 }
 
-.edutech-texto-um{
+.edutech-texto-um {
     padding: 25px;
     margin: 0px
 }
-.edutech-texto-2{
+
+.edutech-texto-2 {
     padding: 25px;
     margin: 0px
 }
-.embaixadora-imagem{
+
+.embaixadora-imagem {
     width: 120px;
+    padding: 4px;
 }
-.embaixadora-icone{
+
+.embaixadora-icone {
     width: 24px;
 }
-.embaixadora-div{
-    text-align: center;
+
+.chefe-imagem {
+    width: 120px;
+    padding: 4px;
 }
-.Embaixadora-NRE{
+
+.chefe-icone {
+    width: 24px;
+}
+
+.assistente-imagem {
+    width: 120px;
+    padding: 4px;
+}
+
+.assistente-icone {
+    width: 24px;
+}
+
+.coordenadora-imagem {
+    width: 120px;
+    padding: 4px;
+}
+
+.coordenadora-icone {
+    width: 24px;
+}
+
+.equipe-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.equipe-NRE {
     text-align: center;
     padding: 50px 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #123670;
 }
-.embaixadora-nome{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+.embaixadora-nome {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #123670;
 }
-.embaixadora-nome-dois{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+.embaixadora-nome-dois {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #123670;
 }
-.rodape{
+
+  
+
+.rodape {
     background-color: #84A7A1;
     text-align: right;
 }
-.rodape-imagem{
+
+.rodape-imagem {
     width: 120px;
     padding: 12px 0;
-  }
-  .titulo-rodape{
+}
+
+.titulo-rodape {
     background-color: #84A7A1;
     color: #fff;
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
-    padding: 24px 0; 
-    font-size: 20px;   
-  }
-  .nucleo-texto-um{
+    padding: 24px 0;
+    font-size: 20px;
+}
+
+.nucleo-texto-um {
     color: #fff;
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
-    font-size: 15px;   
-  }
-  .nucleo-texto-dois{
+    font-size: 15px;
+}
+
+.nucleo-texto-dois {
     color: #fff;
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
     align: middle;
-    font-size: 15px; 
-  }
-  .rodape-div{
+    font-size: 15px;
+}
+
+.rodape-div {
     text-align: center;
-  }
+}
