@@ -97,7 +97,23 @@
     width: 24px;
 }
 
-.equipe-div {
+.embaixadora-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.chefe-div {
+    text-align: center;
+    padding: 16px 0;
+
+}
+
+.assistente-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.coordanadora-div{
     text-align: center;
     padding: 16px 0;
 }
@@ -119,8 +135,10 @@
     color: #123670;
 }
 
-  
-
+.equipe-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
 .rodape {
     background-color: #84A7A1;
     text-align: right;
