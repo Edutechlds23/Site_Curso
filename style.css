@@ -136,9 +136,10 @@
 }
 
 .equipe-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
 }
+
 .rodape {
     background-color: #84A7A1;
     text-align: right;
