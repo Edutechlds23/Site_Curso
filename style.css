@@ -3,6 +3,16 @@
     padding: 0;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+   color:#4e76b6;
+   text-decoration: none;
+}
+
 .cabecalho {
     background-color: #0E2954;
     color: #fff;
@@ -173,7 +183,7 @@ grid-template-columns: 25% 25% 25% 25%;
 .nucleo-texto-dois {
     color: #fff;
     display: flex;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     justify-content: space-around;
     text-align: left;
     align: middle;
